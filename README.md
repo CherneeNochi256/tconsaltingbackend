@@ -27,5 +27,5 @@ The app will start running at <http://localhost:8080>
 **3. Using Postman make a request to**
 
 ```text
-http://localhost:8080/api/v1/letters/amount?str=anyStringYouWant)}
+http://localhost:8080/api/v1/letters/amount?str=anyStringYouWant
 ```
