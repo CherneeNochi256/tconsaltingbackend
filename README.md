@@ -4,7 +4,7 @@
 **1. Go to Postman and make a request to(string is passed in str parameter)**
 
 ```text
-https://tconsaltingbackend.onrender.com/api/v1/letters/amount?str=anyStringYouWant)}
+https://tconsaltingbackend.onrender.com/api/v1/letters/amount?str=anyStringYouWant
 ```
 **2. Just visit this link**
 
